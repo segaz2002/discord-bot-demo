@@ -60,4 +60,4 @@ client.on('message', msg => {
   }
 });
 
-client.login("NzE1OTk1OTI0Njk4MjM0OTAx.XtitiQ.Ln17RVMZwrQGT-PqeaaKf10HDb8");
+client.login("your-bot-token");
